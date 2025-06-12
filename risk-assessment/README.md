@@ -1,3 +1,0 @@
-# Risk Assessment
-
-NIST framework implementation...
