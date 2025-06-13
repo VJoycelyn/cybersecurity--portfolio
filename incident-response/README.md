@@ -1,4 +1,3 @@
-readme_content = """
 # Incident Response: Security Incident Report – YummyRecipesForMe.com
 
 ## 📝 Scenario Summary
